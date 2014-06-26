@@ -12,6 +12,6 @@ $('input:checkbox').change(function(){
 });
 
 Address:
+<a href="http://jsfiddle.net/Behseini/37w8J/">Link text</a>
 
-http://jsfiddle.net/Behseini/37w8J/
 
