@@ -1,0 +1,17 @@
+<input type="checkbox">Check it
+
+$('input:checkbox').change(function(){
+    if($(this).is(':checked')){
+        alert('Checked');
+    }
+    else{
+        alert('Un Checked');
+        
+        }
+    
+});
+
+Address:
+
+http://jsfiddle.net/Behseini/37w8J/
+
